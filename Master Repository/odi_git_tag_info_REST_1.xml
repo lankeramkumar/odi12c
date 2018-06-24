@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Models/BIAS_TEST/MOD_BIAS_TEST.xml"/>
+      <param value="/Work Repository/Projects/BIAS_TEST/Markers/GRP_STATE_Priorities.xml"/>
+      <param value="/Work Repository/Projects/BIAS_TEST/First_Folder/Packages/PACK_PKG_TEST_EDQ.xml"/>
+      <param value="/Work Repository/Projects/BIAS_TEST/First_Folder/FOLD_First_Folder.xml"/>
+      <param value="/Work Repository/Projects/BIAS_TEST/First_Folder/Mappings/MAP_TEST.xml"/>
+      <param value="/Work Repository/Projects/BIAS_TEST/PROJ_BIAS_TEST.xml"/>
+      <param value="/Work Repository/Models/BIAS_TEST/Global/TAB_DWH_DDL.xml"/>
+      <param value="/Work Repository/Projects/BIAS_TEST/Markers/GRP_STATE_Progress.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Work Repository/Models/BIAS_TEST/Global/TAB_TRG_DWH_DDL.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/TEST/PSC_TEST_BIAS_TEST.xml"/>
+      <param value="/Work Repository/Projects/BIAS_TEST/Markers/GRP_STATE_Smileys.xml"/>
+      <param value="/Work Repository/Models/BIAS_TEST/Global/SMOD_Global.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_BIAS_TEST_LS.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Work Repository/Projects/BIAS_TEST/Knowledge Modules/Integration(IKM)/KM_IKM_Oracle_Control_Append.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/TEST/CONN_TEST.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/TECH_Oracle.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
